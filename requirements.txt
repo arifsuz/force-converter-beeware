@@ -1,0 +1,9 @@
+# Core dependencies
+toga==0.3.0.dev27  # BeeWare's Toga library for UI development
+
+# Additional dependencies (if needed)
+numpy==1.25.0      # For mathematical calculations (optional)
+pint==0.20.0       # For unit conversions (optional)
+
+# Development tools
+briefcase==0.3.12  # BeeWare's Briefcase for building and packaging
